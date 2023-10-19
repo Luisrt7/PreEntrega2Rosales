@@ -1,0 +1,23 @@
+.container {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
